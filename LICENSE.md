@@ -1,4 +1,4 @@
-MIIT License
+RTU MIREA License
 
 Copyright (c) 2018—preset Anonymous
 
